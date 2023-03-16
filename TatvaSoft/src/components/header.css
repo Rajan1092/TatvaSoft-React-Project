@@ -1,0 +1,21 @@
+/* Header CSS */
+.header {
+  display: flex;
+  height: 92px;
+  height: 100.88px;
+}
+.header h2 {
+  margin: 0px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.header > div {
+  display: flex;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+.header > div > * {
+  padding: 0px 10px 0px 10px;
+}
